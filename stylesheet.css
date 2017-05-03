@@ -1,0 +1,34 @@
+body{
+  background-color: #F1A8C2;
+
+   text-align: center;
+  color: #D2527F;
+  font-family: "Skolar Regular","Roboto Slab","Droid Serif",Cambria,Georgia,"Times New Roman",Times,serif;
+}
+.cover-container{
+    margin: 10% 20% auto;
+    border: 5px solid #D2527F;
+    border-radius: 5px;
+    background-color:#ffdfea;
+  position: relative;
+}
+
+h1 {
+    margin:0;
+    padding:0.4em;
+    color: #F9CFDE;
+    background-color: #CE5680;
+}
+.content{
+
+  font-size: 25px;
+}
+
+.btn {
+    text-shadow: none;
+    background-color: #D2527F;
+}
+
+a {
+    color: #F9CFDE;
+}
